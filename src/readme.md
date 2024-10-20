@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 牛牛哥的笔记
 heroImage: /doc.yoouu.cn.png
-heroText: 牛牛哥的笔记
+heroText: 牛牛哥的笔记Ceshi
 tagline: 这条路才刚刚开始啊~
 actions:
   - text: 💡 Go →
